@@ -1,0 +1,2 @@
+Dependencies for Project 'whack_a_mole', Target 'Target 1': (DO NOT MODIFY !)
+F (.\whack_a_mole.s)(0x5FCF157C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\Alihusain\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 528" --pd "STM32F10X_MD_VL SETA 1"--list .\listings\whack_a_mole.lst --xref -o .\objects\whack_a_mole.o --depend .\objects\whack_a_mole.d)
