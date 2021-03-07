@@ -1,6 +1,11 @@
 # Whack-a-mole
 Whack-a-mole game programmed on the VLdiscovery board using Cortex m3 assembly language via Keil uVision
 
+
+![Image](https://user-images.githubusercontent.com/43892628/110229492-6c958380-7ecf-11eb-8b70-e3e4c0fe5e9b.gif)
+
+
+
 # What the game is?
 This Whack-a-mole game consist of 4 LEDs with 4 pushbuttons. 
    The user has to hit any of the push buttons in response to the
